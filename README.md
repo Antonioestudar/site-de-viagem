@@ -41,5 +41,5 @@ Este é um site para uma agência de viagens, onde os usuários podem encontrar 
 - Criar uma seção de depoimentos de clientes.
 
 ## Autor
-Desenvolvido por [Seu Nome].
+Desenvolvido por [Antonio Vieira].
 
